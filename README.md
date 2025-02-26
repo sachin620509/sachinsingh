@@ -1,5 +1,4 @@
 # sachinsingh
 Portfolio
-This is a end to end Project
-
-Like this Video :)
+This is the Portfolio 
+using Html & Css 
